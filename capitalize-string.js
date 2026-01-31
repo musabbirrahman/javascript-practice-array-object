@@ -1,4 +1,4 @@
-// Capitalize Every first Letter of each word in a String
+// Capitalize Every first Letter of each word in a String.
 
 let string = 'I love programming and coding';
 let stringLow = string.toLowerCase();   //Converts the whole string to lowercase
